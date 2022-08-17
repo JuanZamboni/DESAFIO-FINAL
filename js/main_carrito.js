@@ -22,7 +22,7 @@ for (let producto of productos) {
 contenido += `<tr>
 <td></td>
 <td class="align-middle">Total a Pagar</td>
-<td class="align-middle"><b>${total}</b></td>`
+<td class="align-middle"><b>$${total}</b></td>`
 
 
 contenido += `</table>`;
