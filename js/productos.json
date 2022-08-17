@@ -1,0 +1,12 @@
+[
+    {"id":1, "nombre":"Monitor Gaming", "destacado":"", "descripcion":"Monitor de 144hz, 24 pulgadas, ultra hd, 4k", "imagen":"monitor.jpg", "precio":35000},
+    {"id":2, "nombre":"Procesador amd", "destacado":"", "descripcion":"Ryzen 5 5600 4.2 Ghz AM4 ", "imagen":"procesador.jpg", "precio":38000},
+    {"id":3, "nombre":"RAM HYPERX", "destacado":"", "descripcion":" Memoria 16GB DDR4 3200", "imagen":"ram.jpg", "precio":15000},
+    {"id":4, "nombre":"GRAFICA MSI", "destacado":"", "descripcion":"MSI GEFORCE RTX 3090 VENTUS", "imagen":"grafica.png", "precio":340000},
+    {"id":5, "nombre":"Silla Gaming", "destacado":"", "descripcion":"Silla soul, reclinable, almohadones, apoya brazos", "imagen":"sillasoul.jpg", "precio":65000},
+    {"id":6, "nombre":"Gabinete", "destacado":"", "descripcion":"Gabinete mediano, rgb", "imagen":"gabinete.jpg", "precio":25000},
+    {"id":7, "nombre":"Fuente EVGA", "destacado":"","descripcion":"Fuente 500w plus white", "imagen":"fuente.png", "precio":13000},
+    {"id":8, "nombre":"Placca madre", "destacado":"","descripcion":"placa asus tuf gaming, a520-m plus", "imagen":"mother.png", "precio":15000},
+    {"id":9, "nombre":"Combo Perifericos", "destacado":"","descripcion":"Mouse gaming ryzer, aurculares gaming ryzer 7.1, teclado mecanico ryzer", "imagen":"peri.jpg", "precio":33000}
+    
+]
